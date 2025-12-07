@@ -13,7 +13,6 @@ For a personal homelab, Proxmox is a great choice due to its flexibility, ease o
 
 - **Hypervisor:** Proxmox VE  
 - **Workloads:** Virtual Machines + Containers  
-- **Goal:** Learn virtualization, networking, self-hosting, and system administration through hands-on practice.
 
 ---
 
