@@ -82,7 +82,7 @@ Yeah, This chatGPT. Not try to show off with fancy words but, Basically thats wh
 
 Well you reached the end. 
 
-> Caution:  The next part is still under construction. Does not have a Completion day. But small progrosses will be realised and reay to be viewed.
+> Caution:  The next part is still under construction. Does not have a Completion day. But small progrosses will be realised and ready to be viewed.
 
 ^_^
 
